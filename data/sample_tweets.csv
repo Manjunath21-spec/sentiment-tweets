@@ -1,0 +1,58 @@
+text,sentiment
+"I love the new product! Great job 👏",positive
+"This is the worst experience I've had...",negative
+"Not sure how I feel about it.",neutral
+"Absolutely fantastic service and quality!",positive
+"Terrible. Will never buy again.",negative
+"Okay product, does the job.",neutral
+"Best purchase I've made this year!",positive
+"Do not recommend — broke after one use.",negative
+"My expectations were met.",neutral
+"Exceeded expectations, brilliant!",positive
+"I’m very happy with this phone",positive
+"Absolutely hate the customer support",negative
+"This update is fine, not great, not bad",neutral
+"Excellent quality and fast delivery!",positive
+"Poor experience, very disappointed",negative
+text,sentiment
+"I love the new product! Great job 👏",positive
+"Absolutely fantastic service and quality!",positive
+"Best purchase I've made this year!",positive
+"Exceeded expectations, brilliant!",positive
+"Superb experience, will recommend!",positive
+"Really happy with the results!",positive
+"This app is amazing and easy to use!",positive
+"Love how smooth the process was!",positive
+"Great customer support, very satisfied!",positive
+"Outstanding quality for the price!",positive
+"This is the worst experience I've had...",negative
+"Terrible. Will never buy again.",negative
+"Do not recommend — broke after one use.",negative
+"Completely useless, waste of money.",negative
+"Extremely disappointed with this service.",negative
+"Awful quality and rude staff.",negative
+"Product failed after one week.",negative
+"Horrible experience from start to finish.",negative
+"Service is alright, not great, not poor.",neutral
+text,sentiment
+I love this product,positive
+This is terrible,negative
+Not bad,neutral
+Amazing experience,positive
+Worst service ever,negative
+It's okay,neutral
+text,sentiment
+I love this product,positive
+This is terrible,negative
+Not bad,neutral
+Amazing experience,positive
+Worst service ever,negative
+It's okay,neutral
+Really enjoyed using this,positive
+Absolutely hate this,negative
+Pretty decent overall,neutral
+This is the best thing ever,positive
+Terrible and disappointing,negative
+Nothing special,neutral
+
+
