@@ -1,6 +1,0 @@
-pandas
-scikit-learn
-nltk
-joblib
-matplotlib
-snscrape      # optional, only if you want to scrape live tweets
